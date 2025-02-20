@@ -22,7 +22,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 ## Step 2: Configure your site
 
-_You turned on GitHub Pages! :tada:_
+_You turned on GitHub Pages! :tada:_minima
 
 We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
 
